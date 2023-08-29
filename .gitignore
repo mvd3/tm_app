@@ -1,0 +1,4 @@
+Backend/bin/
+Backend/obj/Debug/
+frontend/node_modules/
+frontend/.vscode/
